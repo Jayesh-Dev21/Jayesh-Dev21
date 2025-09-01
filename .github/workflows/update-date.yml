@@ -1,0 +1,26 @@
+name: Update Date Counter
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:       # manual trigger
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README with current date
+        run: |
+          DATE=$(date +%d%m%Y)   # format = DDMMYYYY
+          sed -i "s/num=[0-9]*/num=$DATE/" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update date counter to $DATE" || echo "No changes to commit"
+          git push
