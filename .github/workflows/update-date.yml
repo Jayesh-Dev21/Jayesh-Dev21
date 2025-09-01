@@ -2,9 +2,12 @@ name: Update Date Counter
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
+    - cron: "10 11 * * *"   # runs daily at midnight UTC
   workflow_dispatch:       # manual trigger
 
+permissions:
+  contents: write
+  
 jobs:
   update-date:
     runs-on: ubuntu-latest
@@ -24,3 +27,21 @@ jobs:
           git add README.md
           git commit -m "pushed on $DATE" || echo "No changes to commit"
           git push
+#refer
+
+
+#       - name: Modify README with current IST time
+#         run: |
+#           export TZ=Asia/Kolkata
+#           echo "Current IST Time: $(date)" > README.md
+#           cat README.md
+#         timeout-minutes: 2
+
+#       - name: Push to repository
+#         run: |
+#           git config --global user.name "Jayesh Puri"
+#           git config --global user.email "jayeshkpuri@gmail.com"
+#           now=$(TZ=Asia/Kolkata date)
+#           git add -A
+#           git commit -m "Auto Push on $now" || echo "Nothing to commit"
+#           git push
