@@ -3,7 +3,7 @@
 
 <div align="center"; height=20px; width=50%; >
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/Jayesh-Dev21/Jayesh-Dev21/main/_images/gIF.gif" width="100%" />
+    <img src="https://count.getloli.com/@:dexter0?name=%3Adexter0&theme=booru-r6gdrawfriends&padding=7&offset=20&align=top&scale=1&pixelated=1&darkmode=auto&num=12&prefix=21" width="100%" />
   </a>
 
   
