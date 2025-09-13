@@ -3,7 +3,7 @@
 
 <div align="center"; height=20px; width=50%; >
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://count.getloli.com/@:dexter0?name=%3Adexter0&theme=booru-r6gdrawfriends&padding=7&offset=20&align=top&scale=1&pixelated=1&darkmode=auto&num=12092025&prefix=0" />
+    <img src="https://count.getloli.com/@:dexter0?name=%3Adexter0&theme=booru-r6gdrawfriends&padding=7&offset=20&align=top&scale=1&pixelated=1&darkmode=auto&num=13092025&prefix=0" />
   </a>
 
   
