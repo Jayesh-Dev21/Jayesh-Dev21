@@ -17,8 +17,8 @@
 <hr>
 <p><b>Connect with me through:</b></p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Jayesh-black?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/0x1622)](https://x.com/jayeshpuri_21)
-[![Linkedin Badge](https://img.shields.io/badge/-Jayesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shriramdhumal/)](https://www.linkedin.com/in/jayeshpuri/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter%20/%20X-black?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/jayeshpuri_21)](https://x.com/jayeshpuri_21)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayeshpuri/)](https://www.linkedin.com/in/jayeshpuri/)
 
 
 
