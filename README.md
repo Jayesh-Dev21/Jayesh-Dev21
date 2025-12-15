@@ -1,4 +1,4 @@
-$\color{000000}\huge\text{Hi there, I'm Jayesh Puri}$
+$\color{FFFFFF}\huge\text{Hi there, I'm Jayesh Puri}$
 
 
 
