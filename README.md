@@ -10,7 +10,7 @@
   
 </div>
   
-```json
+```
 "M4Y TH3 F0RC3 B3 W1TH Y0U"
 ```
 
