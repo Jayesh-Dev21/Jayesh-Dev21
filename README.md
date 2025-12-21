@@ -20,8 +20,8 @@ $\color{FFFFFF}\huge\mathtt{Hi \space there, \space I'm \space Jayesh \space Pur
 <!-- <hr> -->
 <div align="center"; height=20px; width=50%; >
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://count.getloli.com/@:dexter0?name=%3Adexter0&theme=booru-r6gdrawfriends&padding=7&offset=20&align=top&scale=1&pixelated=1&darkmode=auto&num=20122025" />
-    <!-- <img src="https://count.getloli.com/@:dexter0?name=%3Adexter0&theme=booru-r6gdrawfriends&padding=7&offset=20&align=top&scale=1&pixelated=1&darkmode=auto&num=20122025&prefix=0" /> -->
+    <img src="https://count.getloli.com/@:dexter0?name=%3Adexter0&theme=booru-r6gdrawfriends&padding=7&offset=20&align=top&scale=1&pixelated=1&darkmode=auto&num=21122025" />
+    <!-- <img src="https://count.getloli.com/@:dexter0?name=%3Adexter0&theme=booru-r6gdrawfriends&padding=7&offset=20&align=top&scale=1&pixelated=1&darkmode=auto&num=21122025&prefix=0" /> -->
   </a>
 
   
