@@ -1,15 +1,22 @@
-$\color{FFFFFF}\huge\mathtt{Hi \space there, \space I'm \space Jayesh \space Puri}$
+<h1 align="center">Hello!</h1>
 
+###
 
+```bash
+> env | grep -E '^(EDITOR|LANG|SHELL|TERM|)=' | sort -u
+EDITOR=vscode:nvim
+LANG=en_US.UTF-8
+SHELL=/bin/zsh
+TERM=Kitty
+
+> ps aux | grep "current task"
+Day: Sleeping
+Night: Coding
+```
 
 
 <div align="center">
 
-
-  
-```
-"M4Y TH3 F0RC3 B3 W1TH Y0U"
-```
 
 
 <!-- <p><b>Connect with me through:</b></p>
@@ -24,5 +31,12 @@ $\color{FFFFFF}\huge\mathtt{Hi \space there, \space I'm \space Jayesh \space Pur
     <!-- <img src="https://count.getloli.com/@:dexter0?name=%3Adexter0&theme=booru-r6gdrawfriends&padding=7&offset=20&align=top&scale=1&pixelated=1&darkmode=auto&num=22122025&prefix=0" /> -->
   </a>
 
+
   
+```
+"M4Y TH3 F0RC3 B3 W1TH Y0U"
+```
+
+
+
 </div>
