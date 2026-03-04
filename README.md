@@ -10,8 +10,7 @@ SHELL=/bin/zsh
 TERM=Kitty
 
 > ps aux | grep "current task"
-Day: Sleeping
-Night: Coding
+  [-] Sleep
 ```
 
 
