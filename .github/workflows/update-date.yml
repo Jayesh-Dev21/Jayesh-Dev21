@@ -15,26 +15,26 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Update README with current date
+      - name: Update Trash with current date
         run: |
           DATE=$(date +%d%m%Y)   # format = DDMMYYYY
-          sed -i "s/num=[0-9]*/num=$DATE/" README.md
+          sed -i "s/num=[0-9]*/num=$DATE/" trash.md
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add trash.md
           git commit -m "pushed on $DATE" || echo "No changes to commit"
           git push
 #refer
 
 
-#       - name: Modify README with current IST time
+#       - name: Modify Trash with current IST time
 #         run: |
 #           export TZ=Asia/Kolkata
-#           echo "Current IST Time: $(date)" > README.md
-#           cat README.md
+#           echo "Current IST Time: $(date)" > trash.md
+#           cat trash.md
 #         timeout-minutes: 2
 
 #       - name: Push to repository
